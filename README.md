@@ -35,4 +35,4 @@ This hackathon focuses on creating accurate and efficient solutions for eCommerc
 # Project Resource Structure
   * Datasets: Contains the dataset used for training and testing.
   * product-categorization: Jupyter notebooks containing EDA, model training, and evaluation.
-  * Project report ppt of results.
+  * Project report ppt of the results.
