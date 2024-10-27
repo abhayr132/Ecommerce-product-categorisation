@@ -5,3 +5,8 @@ In the rapidly evolving world of eCommerce, accurate product categorization is c
 
 ## Objectives:
 This hackathon focuses on creating accurate and efficient solutions for eCommerce product categorization. The key objectives are:
+
+*  Data Exploration and Preparation:
+   - Explore and analyze the dataset to understand key features, detect missing data, and identify ambiguities.
+   - Preprocess the dataset for consistency, noise reduction, and missing value handling.
+
