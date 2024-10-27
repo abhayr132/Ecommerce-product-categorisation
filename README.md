@@ -32,6 +32,16 @@ This hackathon focuses on creating accurate and efficient solutions for eCommerc
    - Ensure solutions can accurately categorize unconventional product names and handle ambiguities.
    - Develop models that support scalable, real-time categorization.
 
+#  Expected Outcome
+   * Predictive Model
+     - A text based predictive machine learning model capable of accurate product categorization across multiple categories.
+     - The model will be evaluated using accuracy, F1 score, precision, and recall, ensuring high classification performance.
+   * Visualizations:
+     - A comprehensive set of visualizations will accompany the model, providing insights into data patterns, category distributions, word clouds etc.
+   * Well-Documented Jupyter Notebook:
+     - Participants will deliver a well-documented Jupyter Notebook, including all steps of data exploration, feature engineering, model development, and fine-tuning.
+     - The notebook will serve as a reproducible guide for others to follow and understand the solution.
+
 # Project Resource Structure
   * Datasets: Contains the dataset used for training and testing.
   * product-categorization: Jupyter notebooks containing EDA, model training, and evaluation.
